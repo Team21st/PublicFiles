@@ -55,7 +55,7 @@ XU ZHANG 19105215 XU.ZHANG.2020@MUMAIL.IE
 
 - **Team Leader:** Yihui Shi
 - **Product Manager:** Zhengyang Wang
-- **UI Designer:** Kexuan Zhang
+- **UI Designer:** Kexuan Zhang, YiChen Hu
 - **Software Enginners:** Yihui Shi, YiChen Hu(Front-end); Hongzhe Chen (Back-end)
 - **Quality Assurance Leader:** Xu Zhang
 - **Report Editor:** Zhengyang Wang, Hongzhe Chen, Yihui Shi
