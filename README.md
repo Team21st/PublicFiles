@@ -161,9 +161,9 @@ XU ZHANG 19105215 XU.ZHANG.2020@MUMAIL.IE
 ## 服务器相关
 
 #### 后端：
-服务器项目链接：http://106.14.240.36:8081/SHBM/
-服务器swagger链接：http://106.14.240.36:8081/SHBM/swagger-ui.html
-服务器数据库：1、主机：106.14.240.36，2、端口：3306 3、数据库名SecondHandMarket
+* 服务器项目链接：http://106.14.240.36:8081/SHBM/
+* 服务器swagger链接：http://106.14.240.36:8081/SHBM/swagger-ui.html
+* 服务器数据库：1、主机：106.14.240.36，2、端口：3306 3、数据库名SecondHandMarket
 
 
 ## Change log规范
