@@ -1,0 +1,22 @@
+Test date: 2021.10.19
+Test project: User Controller
+Test tool: Postman software on the laptop, with swagger pages provided by the back-end.
+Tester: Xu Zhang
+Problem: The connection between the server and the database is unstable. It is not easy to     modify the user information. Sometimes the modification fails, and sometimes the information is not updated after modification. At the same time, the profile picture information and files in the user information are also difficult to upload to the server.
+Whose problem: The back-end
+
+
+Test date: 2021.11.10
+Test project: Trade Controller
+Test tool: Postman software on the laptop, with swagger pages provided by the back-end.
+Tester: Xu Zhang
+Problem: Sometimes the sellers can not find the information of the goods they have uploaded. The updated information is not displayed on the queryMyCommodity interface after modifying the item already on the shelf. The connection between the server and the database is not very stable.
+Whose problem: The back-end
+
+
+Test date: 2021.12.8
+Test project: Trade  Controller
+Test tool: Postman software on the laptop, with swagger pages provided by the back-end.
+Tester: Xu Zhang
+Problem: In our logical scenario, we query for the item to get the bookNo, which can then be used to add the item to our shopping cart. But addShoppingCart interface is faulty. Cannot add a book to the shopping cart by bookNo.
+Whose problem: The back-end
