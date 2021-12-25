@@ -1,17 +1,29 @@
 No.01_20211003_Syh
 了解小组成员，初步分配工作
+Team leader : ShiYihui
+Product manager:WangZhengyang
+UI/UX : ZhangKexuan,HuYichen
+Front-end : ShiYihui,HuYichen
+Back-end : ChenHongzhe,ShiYihui
+Testing : ZhangXu
 No.02_20211006_Syh
 各自提出项目想法，进行讨论，准备Sprint 1
+初步定项“二手书城”，备选项目“图书管理系统”
 No.03_20211013_Chz
-“二手书城项目”确定，github仓库建立
+“二手书城项目”确定，github仓库建立，获取仓库编辑权限
 No.04_20211020_Hyc
 UI和登录注册功能，设计个人页面，讨论项目的各种功能，编写用户故事
+编写用户故事20条
+讨论管理员账户和一般用户账户的区分，考虑可能使用不同地址
 No.05_20211027_Zkx
 注册登录功能初步完成，首页设计完成，设计搜索页
+前端与UI讨论，对稿子进行微调
 No.06_20211027_Zx
 实现搜索功能，设计购物车页面与商品详情
+讨论商品详情页的展示内容和功能
 No.07_20211103_Wzy
 实现购物车页面，个人页面
+敲定个人页面展示细节
 No.08_20211110_Syh
 讨论设计后台管理系统，相应的功能和需要展示的数据。
 No.09_20211117_Chz
